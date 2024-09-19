@@ -8,6 +8,6 @@ The Amazon Clone project aims to recreate the look and feel of Amazon’s main p
 
 # Technologies Used
 
-HTML: For structuring the content of the web pages.
+● HTML : For structuring the content of the web pages.
 
-CSS: For styling the web pages, including layout, colors, fonts, and responsive design.
+● CSS : For styling the web pages, including layout, colors, fonts, and responsive design.
